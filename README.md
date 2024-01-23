@@ -9,7 +9,9 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
  -->
+- 🌱 I’m currently learning **Machine Learning**
 
+- 📫 How to reach me **canhnhat922017@gmail.com**
 
 
 ## 📫 How to reach me:
