@@ -11,14 +11,18 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
  -->
 - 🌱 I’m currently learning **Machine Learning**
 
+- 💬 Ask me about **Machine Learning**
+ 
 - 📫 How to reach me **canhnhat922017@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 
 ## 📫 How to reach me:
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lynguyenminh/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/nguyenminhly.fb" alt="Facebook">
