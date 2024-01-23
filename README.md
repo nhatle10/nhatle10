@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi there 👋, I'm Nguyen Minh Ly (Kai)</h1>
+<h1 align="center">Hi there 👋, I'm Nhật Lê</h1>
 <h3 align="center"></h3>
-I am currently a student at University of Information Technology - VNUHCM (UIT), majoring in Artificial Intelligence. I have a passion for creating products that incorporate artificial intelligence.
+I am currently a student at University of Information Technology - VNUHCM (UIT), majoring in Computer Science.
 
 
 <br>
