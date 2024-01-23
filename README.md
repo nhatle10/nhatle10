@@ -25,18 +25,18 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
   <a href="" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/nguyenminhly.fb" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100013358370627" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
  
-  <a href="https://github.com/lynguyenminh" alt="Github">
+  <a href="https://github.com/nhatle10" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="mailto:nguyenminhly.ai@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   
-  <a href="https://www.youtube.com/channel/UClRiDnX_OmJAT16VuFOoFZg" alt="YoutubeChannel">
+  <a href="" alt="YoutubeChannel">
     <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
  
