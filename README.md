@@ -7,7 +7,7 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
 <br>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="nhatle10" /> </p>
  -->
 - 🌱 I’m currently learning **Machine Learning, Deep Learnig, Large Language Model (LLMs), Computer Vision**
 
