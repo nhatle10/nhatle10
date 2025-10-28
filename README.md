@@ -6,9 +6,6 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
 
 <br>
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
- -->
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Machine Learning**
@@ -52,9 +49,9 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="CSS" width="40" height="40"/> </a> &emsp; 
 </p>
 
+
+
 ### Frameworks and Libraries
-
-
 <p align="center">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> &emsp; 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &emsp; 
@@ -74,7 +71,6 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> &emsp; 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" width="40" height="40"/> </a> &emsp; 
 </p>
-
 
 
 
