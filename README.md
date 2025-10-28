@@ -6,9 +6,9 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
 
 <br>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, **Generative AI**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning**, **Deep Learning**
  
 - 📫 How to reach me **canhnhat922017@gmail.com**
 
