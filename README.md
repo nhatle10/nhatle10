@@ -74,8 +74,8 @@ I am currently a student at University of Information Technology - VNUHCM (UIT),
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatle10&show_icons=true&locale=en&layout=compact" alt="nhatle10" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatle10&show_icons=true&locale=en&layout=compact" alt="nhatle10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhatle10&show_icons=true&locale=en" alt="nhatle10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhatle10&" alt="nhatle10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhatle10&" alt="nhatle10" /></p> -->
